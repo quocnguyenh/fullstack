@@ -1,0 +1,22 @@
+Copy from https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners
+
+Step 1: Create a local git repository 
+	git init
+
+Step 2: Add a new file to the repo
+	git status
+	git add <filename>
+	
+Step 3: Add a file to the staging environment
+	git add <filename>
+
+Step 4: Create a commit
+	git commit -m "Your message about the commit"
+	
+Step 5: Create a new branch
+	git branch
+	
+Step 6: Create a new repository on GitHub
+	git remote add origin <url>
+	git push -u origin master
+	
